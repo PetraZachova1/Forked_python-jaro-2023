@@ -52,15 +52,16 @@ Jakmile máme vytvořený repozitář na GitHubu a jeho kopii ve VS Code, může
 1. Ve Visual Studiu vypracuj úkol jako soubor s příponou `.py`, například `ukol-x.py`.
 
 2. Klikni na levé liště na obrázek "větví" (*Source Control*). V sekci *Changes* by se měl nacházet tvůj soubor.
-<img src="./img/source-control-1.png" width="400">
+<img src="./img/vs-code-git-1.png" width="400">
 
 3. U souboru, který chceš nahrát, klikni na znamení `+`. Soubor se přesune do sekce *Staged Changes*.
-<img src="./img/source-control-2.png" width="400">
+<img src="./img/vs-code-git-2.png" width="400">
+<img src="./img/vs-code-git-3.png" width="400">
 
-4. Nyní úkol připravíme k odevzdání, a provedeme takzvaný *commit*. Klikni na ikonu fajfky. Nahoře v prostřed okna s Visual Studiem se objeví dialog, do kterého napiš krátké shrnutí - například *Úkol č. X* a stiskni Enter.
-
-5. Na závěr nahrajeme tuto změnu na GitHub. Klikni na obrázek dvou šipek v cyklu zcela dole a vlevo.
-<img src="./img/source-control-3.png" width="300">
+4. Nyní úkol připravíme k odevzdání, provedeme takzvaný *commit* a nahrajeme změnu na GitHub. Do okýnka nad tlačítko *Commit* napiš krátký popis úkolu, například *Úkol X*. 
+<img src="./img/vs-code-git-4.png" width="400">
+Následně zvol možnost *Commit & Push*, čímž pošleš soubor nebo jeho změny na GitHub - změna se projeví ihned v tvém repozitáři.
+<img src="./img/vs-code-git-5.png" width="400">
 
 ### Odevzdání úkolu v portálu moje.czechitas.cz - závěrečný krok odevzdání
 
