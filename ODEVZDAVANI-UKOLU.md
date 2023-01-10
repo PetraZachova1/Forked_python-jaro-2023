@@ -61,7 +61,7 @@ Jakmile máme vytvořený repozitář na GitHubu a jeho kopii ve VS Code, může
 4. Nyní úkol připravíme k odevzdání, provedeme takzvaný *commit* a nahrajeme změnu na GitHub. Do okýnka nad tlačítko *Commit* napiš krátký popis úkolu, například *Úkol X*. 
 <img src="./img/vs-code-git-4.png" width="400">
 Následně zvol možnost *Commit & Push*, čímž pošleš soubor nebo jeho změny na GitHub - změna se projeví ihned v tvém repozitáři.
-<img src="./img/vs-code-git-5.png" width="400">
+<img src="./img/vs-code-git-5.png" width="600">
 
 ### Odevzdání úkolu v portálu moje.czechitas.cz - závěrečný krok odevzdání
 
