@@ -3,14 +3,13 @@
 ## Instalace
 Návod na instalace nástrojů pro kurz najdete [zde](./INSTALACE.md).
 
-<!-- ## Odevzdávání úkolů
+## Odevzdávání úkolů
 Návod na odevzdávání úkolů najdete [zde](./ODEVZDAVANI-UKOLU.md).
 
-* Na každý úkol je 14 dní na vypracování. Termín je stanovený zejména proto, aby se úkoly k vypracování nehromadily ani pro ty, 
-kdo je vypracováváj9, ani pro ty, kdo je opravují.
+* Na každý úkol je 14 dní na vypracování. Termín je stanovený zejména proto, aby se úkoly k vypracování nehromadily ani pro ty, kdo je vypracovávájí, ani pro ty, kdo je opravují. Pokud nemůžete dodržet termín na odevzdání, dejte vědět někomu z týmu (např. vaší koučce / vašemu kouči).
 
-* Výjimka je pro úkol z první lekce, jehož hlavním cílem je vyzkoušet si systém odevzdávání. Pokud můžeš, odevzdej ho (alespoň jeho testovací verzi)
-prosím do začátku druhé lekce. -->
+* Výjimka je pro úkol z první lekce, jehož hlavním cílem je vyzkoušet si systém odevzdávání. Odevzdej ho (alespoň jeho testovací verzi) prosím do začátku druhé lekce.
+
 
 ## Lekce
 
