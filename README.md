@@ -15,7 +15,7 @@ Návod na odevzdávání úkolů najdete [zde](./ODEVZDAVANI-UKOLU.md).
 
 |    | Datum     | Téma             | Odkaz na lekci                                                           | Odkaz na úkol
 | -- | --------- | ---------------- | ------------------------------------------------------------------------ | -------------
-| 1  | 12.01.2023 | Úvod, opakování, slicing, metody, moduly | https://kodim.cz/kurzy/uvod-do-progr-2/uvod-do-programovani-2/uvod/ , https://kodim.cz/kurzy/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/ | 
+| 1  | 12.01.2023 | Úvod, opakování, slicing, metody, moduly | https://kodim.cz/kurzy/uvod-do-progr-2/uvod-do-programovani-2/uvod/ , https://kodim.cz/kurzy/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/ | [ukol-01](./ukoly/ukol-01.md)
 | 2  | 19.01.2023 | Slovníky        | https://kodim.cz/kurzy/uvod-do-progr-2/uvod-do-programovani-2/slovniky/  | 
 | 3  | 26.01.2023 |    | | 
 | 4  | 02.02.2023 |    | | 
