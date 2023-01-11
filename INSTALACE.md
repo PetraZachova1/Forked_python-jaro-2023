@@ -72,7 +72,7 @@ Pokud máš počítač s Linuxem, následuj tyto kroky:
 Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusť VS Code a z horního menu vyber **View → Command Palette...**. Do textového políčka zkopíruj tento text:
 
 ```
-Open Settings (JSON)
+Open User Settings (JSON)
 ```
 a stiskni enter.
 Otevře se okno s editorem. Do jeho pravé časti vlož tento text (přepiš cokoliv, co v editoru bylo dosud):
