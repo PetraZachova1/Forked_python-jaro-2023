@@ -42,7 +42,7 @@ Hurá, máš propojený repozitář na GitHubu s jeho lokální verzí u tebe na
 1. Na stránce tvého repozitáře (url by mělo vypadat jako `github.com/<uzivatelske-jmeno>/<nazev-repozitare>`) přejdi do nastavení kliknutím na *Settings*, a dále pak v levé liště klikni na *Collaborators* a pak na *Add people* (tlačítka jsou označeny modrými hvězdičkami):
 <img src="./img/add-collaborator.png" width="800">
 
-2. Otevře se okno, do kterého zadej uživatelské jméno tvého kouče (viz tabulka koučů a jejich uživatelských jmen). Výběr potvrď.
+2. Otevře se okno, do kterého zadej uživatelské jméno tvého kouče (přiřazení ke koučům proběhne na první lekci). Výběr potvrď.
 
 ## Odevzdávání úkolů
 Jakmile máme vytvořený repozitář na GitHubu a jeho kopii ve VS Code, můžeme nahrávat úkoly a posílat je koučům.
